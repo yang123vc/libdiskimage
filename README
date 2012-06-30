@@ -1,0 +1,17 @@
+libdiskimage
+============
+
+This is libdiskimage, a cross-platform library for accessing hard and floppy disk drive images.
+
+For more information, take a look at the included man pages.
+  
+For generic installation instructions, see file 'INSTALL'.
+
+If you make a binary distribution, include a pointer to the official
+distribution site:
+
+	http://code.google.com/p/libdiskimage
+
+The latest version can always be found there.
+
+Mail suggestions and bug reports to <mressl@umich.edu>.
