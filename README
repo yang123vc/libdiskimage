@@ -1,7 +1,8 @@
 libdiskimage
 ============
 
-This is libdiskimage, a cross-platform library for accessing hard and floppy disk drive images.
+This is libdiskimage, a cross-platform library written in C++ for accessing
+hard and floppy disk drive images.
 
 For more information, take a look at the included man pages.
   
